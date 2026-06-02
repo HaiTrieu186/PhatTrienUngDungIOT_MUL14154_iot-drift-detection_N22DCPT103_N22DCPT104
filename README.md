@@ -1,10 +1,10 @@
 # 🔍 IoT Concept Drift Detection
 > Phát hiện drift trong hệ thống IoT bằng Online Learning — LSTM + ADWIN + Azure Cloud
 
-**Môn học:** Phát triển Ứng dụng IoT — MUL14154
-**Trường:** Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-**Lớp:** D22CQPTUD01-N
-**Nhóm:**
+**Môn học:** Phát triển Ứng dụng IoT — MUL14154  
+**Trường:** Học viện Công nghệ Bưu chính Viễn thông (PTIT)  
+**Lớp:** D22CQPTUD01-N  
+**Nhóm:**  
 - Phạm Nguyễn Hải Triều — N22DCPT104
 - Nguyễn Mạnh Trí — N22DCPT103
 
